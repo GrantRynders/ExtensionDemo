@@ -1,0 +1,2 @@
+Github issues API: https://docs.github.com/en/rest/issues?apiVersion=2022-11-28
+Mozilla extensions documentation: https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
